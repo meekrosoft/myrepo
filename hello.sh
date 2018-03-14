@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 'Hello, Copenhagen!'
-
+echo 'Hello, COPENHAGEN!!!!'
+echo 'I heart this city'
